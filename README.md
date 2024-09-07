@@ -1,4 +1,4 @@
-![alt text](./images/top-cropper.svg)
+![alt text](./images/top.svg)
 
 I love coding in Python 🐍. I intern at [MSRIT](https://www.msrit.edu/) as a Research Assistant and occassionally participate in hackathons.
 
