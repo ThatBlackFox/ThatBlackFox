@@ -1,8 +1,8 @@
 ![alt text](./images/top.svg)
 
-I love coding in Python 🐍. I intern at [MSRIT](https://www.linkedin.com/school/m.s.-ramaiah-institute-of-technology) as a Research Assistant and occassionally participate in hackathons.
+I love coding in Python 🐍. I interned at [MSRIT](https://www.linkedin.com/school/m.s.-ramaiah-institute-of-technology) as a Research Assistant and occassionally participate in hackathons.
 
-⚡ Fun fact:
+⚡ About me:
 - 👯 I’m looking to collaborate on projects that are using Python.
 - 🌱 I’m currently learning GNN and Federated Learning.
 - ✏️ I make random stuff on my raspberry pi 5.
