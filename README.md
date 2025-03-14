@@ -1,6 +1,6 @@
 ![alt text](./images/top.svg)
 
-I love coding in Python 🐍. I interned at [MSRIT](https://www.linkedin.com/school/m.s.-ramaiah-institute-of-technology) as a Research Assistant and occassionally participate in hackathons.
+I love coding in Python 🐍. I interned at [MSRIT](https://www.linkedin.com/school/m.s.-ramaiah-institute-of-technology) & [NITK](https://www.linkedin.com/school/nitk-surathkal/) as a Research Assistant and occassionally participate in hackathons.
 
 ⚡ About me:
 - 👯 I’m looking to collaborate on projects that are using Python.
