@@ -14,6 +14,7 @@ I love coding in Python 🐍. I interned at [MSRIT](https://www.linkedin.com/sch
 	<a href="https://github.com/thatblackfox"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/amogha-ya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.kaggle.com/thatblackfox"><img src="https://img.icons8.com/bubbles/50/000000/kaggle.png" alt="Twitter"/></a>
+	<a href="https://osu.ppy.sh/users/31939036"><img src="https://img.icons8.com/?size=100&id=-30NV418noAF&format=png&color=000000" alt="Osu"/></a>
 </p>
 
 ![alt text](./images/bottom.svg)
